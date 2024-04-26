@@ -1,5 +1,5 @@
 const sessionName = "Yesbhautik";
-const owner = ["916353586391"];
+const owner = ["919654273911"];
 const {
   default: yesbhautikaiConnect,
   useSingleFileAuthState,
